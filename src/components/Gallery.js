@@ -14,7 +14,7 @@ const DogItems = [
 {
    id: 1,
    dogImage: img1,
-   itemTitle: `Julie's Rabbit Bars`
+   dogTitle: `Julie's Rabbit Bars`
 },
 {
    name: 2,
@@ -39,7 +39,7 @@ const DogItems = [
 {
     name: 6,
     dogImage: img6,
-   itemTitle: `The Saint Doggo`
+   dogTitle: `The Saint Doggo`
 },
 {
     name: 7,

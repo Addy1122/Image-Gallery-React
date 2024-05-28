@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.imagegallery{
+    background: #f4cbcb;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 50px;    
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
